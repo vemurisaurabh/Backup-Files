@@ -1,0 +1,14 @@
+CP# 50    
+           Type = (3,-1) BCP C6 O7                                           
+           Rho =  4.2286236377E-01
+           DelSqRho =  2.1929614620E-01
+
+CP# 58    
+           Type = (3,-1) BCP O16 H35                                         
+           Rho =  4.3368345341E-02
+           DelSqRho =  1.6938315410E-01
+
+CP# 59    
+           Type = (3,-1) BCP N17 H23                                         
+           Rho =  2.8323256694E-02
+           DelSqRho =  9.3011842317E-02

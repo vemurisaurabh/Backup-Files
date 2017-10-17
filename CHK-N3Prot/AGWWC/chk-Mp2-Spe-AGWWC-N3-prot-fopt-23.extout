@@ -1,0 +1,80 @@
+ AIMExt (Version 11.12.19, Professional)
+ Portions Copyright (c) 1997-2011 by Todd A. Keith
+ AIMExt is a component of the AIMAll package ( http://aim.tkgristmill.com )
+
+ AIMExt is a heavily modified and extended version of the EXTREME program
+ developed by members of R.F.W. Bader's research group
+
+ Much of the Quantum Theory of Atoms in Molecules (QTAIM) is described in the book:
+   "Atoms in Molecules - A Quantum Theory"
+   R.F.W. Bader, Oxford University Press, Oxford, 1990
+
+ For additional references see:  http://aim.tkgristmill.com/references.html
+
+ Wfx File:  /home4/vemuri/FCHK/CHK-N3Prot/AGWWC/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23.wfx
+ ExtOut File:  /home4/vemuri/FCHK/CHK-N3Prot/AGWWC/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23.extout
+ Mgp File:  /home4/vemuri/FCHK/CHK-N3Prot/AGWWC/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23.mgp
+
+ Wfx Title:  CHK-Mp2-Spe-AGWWC-N3prot-from-fopt-step23                                      
+ Job Title:  WFX SAMPLE RUN                                                                 
+
+ The nuclear coordinates:
+      C1           -1.1973363400E+01  2.2682874100E+00 -3.4614491500E-01
+      N2           -1.0033892100E+01  3.4554398200E-01  6.9689320300E-02
+      C3           -1.0409889000E+01 -2.1839130300E+00  7.1301067700E-01
+      N4           -8.3060852400E+00 -3.4529623900E+00  9.5197599600E-01
+      C5           -6.4259154500E+00 -1.7300480500E+00  4.5984028800E-01
+      C6           -3.7150541800E+00 -2.0340671900E+00  4.1301098500E-01
+      O7           -2.4596335200E+00 -3.9337068300E+00  7.2708913700E-01
+      N8           -2.4312876300E+00  3.2040873500E-01 -8.7840139800E-02
+      C9           -3.5171167000E+00  2.5108885600E+00 -6.8449282000E-01
+      N10          -2.0944420500E+00  4.5294278800E+00 -1.2825779100E+00
+      N11          -6.0803658000E+00  2.7277610900E+00 -6.8926815800E-01
+      C12          -7.4821438600E+00  5.9843280300E-01 -8.6222534300E-02
+      C13           1.2136811400E+01  2.5093333200E+00  8.6850679200E-01
+      N14           1.0249610000E+01  6.1899302300E-01  1.7709379500E-01
+      C15           1.0665039800E+01 -1.7758153300E+00 -7.7856338700E-01
+      N16           8.5862050100E+00 -3.0735129400E+00 -1.1890856000E+00
+      C17           6.6888991900E+00 -1.4448808200E+00 -4.7267341800E-01
+      C18           4.0395201600E+00 -1.7323327300E+00 -4.1164660200E-01
+      N19           2.8672020900E+00 -3.8664212400E+00 -1.1422770900E+00
+      N20           2.6583155500E+00  2.8179974000E-01  4.0622308800E-01
+      C21           3.8810250500E+00  2.3874157500E+00  1.2213318900E+00
+      N22           6.3385382900E+00  2.8322742800E+00  1.2690550300E+00
+      C23           7.6762225100E+00  8.5447179600E-01  3.8534539400E-01
+      H24          -1.1726837200E+01  3.8472424100E+00  9.6490172200E-01
+      H25          -1.1932276900E+01  2.9427627900E+00 -2.3002256700E+00
+      H26          -1.3814961900E+01  1.4149116600E+00  6.2587729500E-03
+      H27          -3.4852219100E-01  2.5797596300E-01  1.2091223700E-01
+      H28          -2.0462143500E-01  4.3301109000E+00 -1.4765961000E+00
+      H29          -2.8458047200E+00  6.2476953800E+00 -1.6244728300E+00
+      H30           1.4009318400E+01  1.7428811800E+00  4.7699522200E-01
+      H31           1.1856447900E+01  4.2302861200E+00 -2.3580947500E-01
+      H32           1.1986247500E+01  2.9607284200E+00  2.8770059900E+00
+      H33           3.9627424700E+00 -5.3651044600E+00 -1.5911569600E+00
+      H34           1.0510146500E+00 -4.1941205400E+00 -6.0381474300E-01
+      H35          -1.2297018600E+01 -2.9263316200E+00  9.6782134900E-01
+      H36          -6.9105772900E+00  4.3432067000E+00 -1.2874193900E+00
+      H37           2.6698976800E+00  3.8829298900E+00  1.9509853800E+00
+      H38           1.2561213700E+01 -2.4553287200E+00 -1.1308707000E+00
+
+ Number of primitives read from wavefunction =   1154
+ Number of unique primitives to be used =   1016
+
+ Using MO basis.
+
+ Number of processors used for this job =    1
+
+ Total memory allocated for AIMExt =       17.334 Megabytes
+ 
+ Restricted, SCF, closed-shell orbital wavefunction.
+   Number of electrons (from MO Occs)                   =         164.0000000000
+   Number of Alpha electrons (from MO Occs)             =          82.0000000000
+   Number of Beta electrons (from MO Occs)              =          82.0000000000
+   Number of electron pairs (N*(N-1)/2)                 =       13366.0000000000
+   Number of electron pairs (from Muller 2EDM)          =       13366.0000000000
+
+ Analyzing Rho, the electron density
+
+ Starting coordinates for critical point search are:
+   1.0000000000E+00  2.0000000000E+00  3.0000000000E+00

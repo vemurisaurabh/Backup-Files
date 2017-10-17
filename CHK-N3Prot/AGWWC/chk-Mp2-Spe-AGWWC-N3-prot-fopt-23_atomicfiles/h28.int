@@ -1,0 +1,73 @@
+ AIMInt (Version 11.12.19, Professional)
+ Portions Copyright (c) 1997-2011 by Todd A. Keith
+ AIMInt is a component of the AIMAll package ( http://aim.tkgristmill.com )
+
+ AIMInt is a heavily modified and extended version of the PROAIMV program
+ developed by members of R.F.W. Bader's research group
+
+ Much of the Quantum Theory of Atoms in Molecules (QTAIM) is described in the book:
+   "Atoms in Molecules - A Quantum Theory"
+   R.F.W. Bader, Oxford University Press, Oxford, 1990
+
+ For additional references see:  http://aim.tkgristmill.com/references.html
+
+ Inp File:  /home4/vemuri/FCHK/CHK-N3Prot/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23_atomicfiles/h28.inp
+ Wfx File:  /home4/vemuri/FCHK/CHK-N3Prot/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23.wfx
+ Out File:  /home4/vemuri/FCHK/CHK-N3Prot/chk-Mp2-Spe-AGWWC-N3-prot-fopt-23_atomicfiles/h28.int
+
+ Wfx Title:  CHK-Mp2-Spe-AGWWC-N3prot-from-fopt-step23                                      
+ Job Title:  CHK-Mp2-Spe-AGWWC-N3prot-from-fopt-step23                                      
+
+ The value of -V/T from the wfx file =  2.0016849598E+00
+ The molecular energy from the wfx file = -1.0825114472E+03
+ The Proaim surface algorithm will be used.
+ The critical points in the atomic surface:
+  1 BCP (Bond)   1.1432605651E+00   3.8186905598E+00   6.8182913845E-03 H37     
+  2 BCP (Bond)  -6.2900867195E-01   4.3708695755E+00  -1.4311298215E+00 N10     
+  3 RCP (Ring)   1.1726404865E+00   3.3201630325E+00  -3.0335804725E-01
+      connected to bonds   1   2 and cages   0   0
+ Optional parameters read from input.
+ 
+ Restricted, SCF, closed-shell orbital wavefunction.
+   Number of electrons (from MO Occs)                   =         164.0000000000
+   Number of Alpha electrons (from MO Occs)             =          82.0000000000
+   Number of Beta electrons (from MO Occs)              =          82.0000000000
+   Number of electron pairs (N*(N-1)/2)                 =       13366.0000000000
+   Number of electron pairs (from Muller 2EDM)          =       13366.0000000000
+ 
+ Integration is over atom H28     
+ Number of processors used for job =    1
+ Dynamic cutoffs will be used throughout.
+ The cutoff value to be used is 1.00E-13
+ Pre-integration cutoffs will be used.
+ Number of primitives read from wavefunction =   1154
+ Number of unique primitives before cutoffs is   1016
+ The number of primitives to be used outside Beta sphere is    557
+ The number of primitives to be used inside Beta sphere is    514
+ The number of contracted basis functions to be used outside Beta sphere is      0(MaxLen=     0)
+ The number of uncontracted basis functions to be used outside Beta sphere is    557
+ The number of contracted basis functions to be used inside Beta sphere is      0(MaxLen=     0)
+ The number of uncontracted basis functions to be used inside Beta sphere is    514
+ Time spent trimming wavefunction =        9 sec
+ Using MO basis.
+ Total memory allocated for AIMInt =       17.811 Megabytes
+ Doing Beta sphere integration ...
+ The radius of the Beta sphere is  2.2875748273E-01
+ The Beta sphere integration will be done in   1 shells.
+ Using default number of radial and angular points for Beta sphere shells.
+ The outer radius of shell   1 is  2.2875748273E-01 with   32 radial points.
+ Using    170 Lebedev grid points for angular integration of shell   1
+ Shell   1 of Beta sphere integration is done.
+ Beta sphere integration is done.
+ Using Proaim surface algorithm.
+ Will search for first through fifth intersections in Proaim surface algorithm.
+ Using   83 initial gradrho trajectories per interatomic surface.
+ Maximum path length of a gradrho surface trajectory =  1.2000000000E+01
+ Using  480 triangulation points per gradrho surface trajectory.
+ Distance between adjacent triangulation points on gradrho surface trajectories =  2.5000000000E-02
+ Maximum distance between adjacent surface trajectories =  3.2000000000E-01
+ Density cutoff for "infinite" surface trajectories =  1.0000000000E-10
+ Surface trajectory micro insertion limit =  127
+ Bond = 1, Ring = 1, DistBR =  5.8787944031E-01, DstFrB =  2.3377846639E-02
+ Failed to connect BCP   2 to RCP   1
+ Aborting because cannot triangulate surface.
